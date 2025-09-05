@@ -25,16 +25,9 @@ Permite crear cuentas, consultar saldo, depositar, retirar y transferir entre cu
 ----------
 
 ## ▶️ Ejecución
-1. Clonar el repositorio
+Para ejecutar este proyecto en tu equipo
+
    ```bash
    git clone https://github.com/DanielTusarma/sistema-bancario-poo.git
-
-----------
-2. Ingresa a la carpeta del proyecto
    cd sistema-bancario-poo
-
-----------
-3. Ejecuta el programa
    python 01_cuenta_bancaria.py
-
------------
