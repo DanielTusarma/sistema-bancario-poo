@@ -31,3 +31,17 @@ Para ejecutar este proyecto en tu equipo
    git clone https://github.com/DanielTusarma/sistema-bancario-poo.git
    cd sistema-bancario-poo
    python 01_cuenta_bancaria.py
+   ```
+----------
+
+## 🚀 RoadMap de Mejoras
+
+- [ ] Agregar nuevos atributos(Nombre, cédula, nro celular y correo).
+- [ ] Implementar autenticación de usuarios (con Nro de cuenta y cédula).
+- [ ] Validación que el nro de cuenta tenga 10 dígitos
+- [ ] Validación para cedula y nro celular, que sean dígitos
+- [ ] Validación de correo electrónico usando expresiones regulares
+- [ ] Agregar historial de transacciones por cuenta.
+- [ ] Permitir exportar los movimientos a un archivo CSV.
+- [ ] Añadir interfaz gráfica o API para interactuar con el sistema.
+- [ ] Mejorar manejo de excepciones con mensajes personalizados.
